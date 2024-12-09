@@ -271,7 +271,7 @@ VS CODE
 There is no need for installation
 
 # Run
-The link to the project is : https://alenjoseph.me/UseLess_Project/
+The link to the project is : https://cyrax321.github.io/UseLess_Project/
 
 ### Project Documentation
 For Software:
