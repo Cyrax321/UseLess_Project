@@ -47,7 +47,7 @@ Welcome to *The Useless Projects*, the ultimate destination for when you want to
 
 10. **Multiplayer Tic Tac Toe** ❌⭕: Challenge your bestie in this ancient battle of X’s and O’s. Win? Get bragging rights for eternity. Lose? *It’s just a game, right?* (It’s not).
 
-11. **Reasons to Procrastinate** 💤💅: Need an excuse to *not be productive*? We gotchu. This page serves up *very valid* reasons to keep procrastinating like a *pro* 😌.
+11. **Reasons to Procrastinate** 💤💅: Need an excuse to *not be productive*? We gotchu. This page serves up *very valid* reasons to keep procrastinating like a *pro* 😌
 
 12. **Dummy URL Shortener** 🔗✂️: Want a shorter link? Too bad. This tool will take your link and give you a *longer*, pointless URL. Because why make things easy?
     
